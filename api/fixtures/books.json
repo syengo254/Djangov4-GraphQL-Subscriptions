@@ -1,0 +1,23 @@
+[
+  {
+    "model": "api.book",
+    "pk": 1,
+    "fields": {
+      "name": "Game of Thrones"
+    }
+  },
+  {
+    "model": "api.book",
+    "pk": 2,
+    "fields": {
+      "name": "Dreams From My Father"
+    }
+  },
+  {
+    "model": "api.book",
+    "pk": 3,
+    "fields": {
+      "name": "And Still I Rise"
+    }
+  }
+]
